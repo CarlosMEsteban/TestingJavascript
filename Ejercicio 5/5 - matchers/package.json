@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+
+  "name": "matchers",
+  "scripts": {
+    "test": "jest"
+  }
+}
